@@ -33,7 +33,7 @@ function Main() {
           </div>
           <div
             className="col-lg-6 pic-sec"
-            data-aos="flip-up"
+            data-aos="zoom-in"
             data-aos-duration="3000"
           >
             <img
