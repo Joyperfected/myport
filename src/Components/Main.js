@@ -37,7 +37,7 @@ function Main() {
             data-aos-duration="3000"
           >
             <img
-              src="./Images/IMG_6540 3.JPG"
+              src="./Images/IMG_6540 3.jpg"
               className="d-block w-50 m-auto img-fluid imgprofile"
             />
           </div>
@@ -46,7 +46,7 @@ function Main() {
 
       <div className="container mt-5 mb-5">
         <div className="row text-center logo-con">
-          <h3 className="omo mt-5 mb-5">My skills</h3>
+          <h2 className="omo mt-5 mb-5">My skills</h2>
           <div className="col-lg-2 py-3">
             <img src="./Images/htmlnew.png" alt="" className="w-75" />
             <h6>HTML</h6>
@@ -109,7 +109,7 @@ function Main() {
 
 
       <div className="container mb-5">
-        <h3 className="omo mt-5 text-center mb-3">My Projects</h3>
+        <h2 className="omo mt-5 text-center mb-3">My Projects</h2>
         <h6 className="mb-5 text-center iam">Click and enjoy...</h6>
         <div className="row">
 
@@ -119,7 +119,7 @@ function Main() {
               className="card text-white mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project one</div>
+              <div className="card-header proo">Project one</div>
               <div className="card-body">
                 <h5 className="card-title">Stikingly Website</h5>
                 <p className="card-text">
@@ -136,7 +136,7 @@ function Main() {
               className="card text-white mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project Two</div>
+              <div className="card-header proo">Project Two</div>
               <div className="card-body">
                 <h5 className="card-title">Keryn Website</h5>
                 <p className="card-text">
@@ -153,7 +153,7 @@ function Main() {
               className="card text-white mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project Three</div>
+              <div className="card-header proo">Project Three</div>
               <div className="card-body">
                 <h5 className="card-title">Surprise Website</h5>
                 <p className="card-text">
@@ -174,7 +174,7 @@ function Main() {
               className="card text-white  mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project Four</div>
+              <div className="card-header proo">Project Four</div>
               <div className="card-body">
                 <h5 className="card-title">School Website</h5>
                 <p className="card-text">
@@ -191,7 +191,7 @@ function Main() {
               className="card text-white  mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project Five</div>
+              <div className="card-header proo">Project Five</div>
               <div className="card-body">
                 <h5 className="card-title">Envisio Website</h5>
                 <p className="card-text">
@@ -208,7 +208,7 @@ function Main() {
               className="card text-white mb-3 project1"
               style={{maxMidth:"18rem;"}}
             >
-              <div className="card-header">Project Six</div>
+              <div className="card-header proo">Project Six</div>
               <div className="card-body">
                 <h5 className="card-title">Boutique Website</h5>
                 <p className="card-text">
