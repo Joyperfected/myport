@@ -241,7 +241,11 @@ function Main() {
              </a>
              
              <a href="https://ng.linkedin.com/in/joy-okunzuwa-5497aa235">
-             <h3><i className="fa fa-linkedin iconimg"></i></h3>
+             <h3><i className="fa fa-linkedin iconimg me-5"></i></h3>
+             </a>
+
+             <a href="https://www.instagram.com/_perfygram?igsh=MXVvd3NvNjAwMnY5ZA==">
+             <h3><i className="fa fa-instagram iconimg"></i></h3>
              </a>
 
            </div>
