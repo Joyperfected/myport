@@ -7,11 +7,9 @@ function Navbar() {
       <div className="container-fluid navback">
         <div className="row">
           <div className="col-lg-12">
-            <nav class="navbar navbar-expand-lg navvb">
+            <nav class="navbar navbar-expand-lg fixed-top navvb ">
               <div class="container-fluid">
-                <h3 class="navbar-brand joyy">
-                    Joy Okunzuwa
-                </h3>
+                <h3 class="navbar-brand joyy">Joy Okunzuwa</h3>
                 <button
                   class="navbar-toggler"
                   type="button"
@@ -25,28 +23,28 @@ function Navbar() {
                 </button>
                 <div class="collapse navbar-collapse navtext" id="navbarNav">
                   <ul class="navbar-nav">
-                    <li class="nav-item">
+                    {/* <li class="nav-item">
                       <a class="nav-link   homee" aria-current="page" href="#">
                         Home
                       </a>
-                    </li>
+                    </li> */}
                     <li class="nav-item">
-                      <a class="nav-link   homee" href="#">
-                        About 
+                      <a class="nav-link   homee" href="#about">
+                        About
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link   homee" href="#">
+                      <a class="nav-link   homee" href="#skills">
                         Skills
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link   homee" href="#">
+                      <a class="nav-link   homee" href="#projects">
                         Project
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link   homee" href="#">
+                      <a class="nav-link   homee" href="#contact">
                         Contact
                       </a>
                     </li>

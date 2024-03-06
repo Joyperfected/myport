@@ -8,8 +8,8 @@ function Main() {
     AOS.init();
   }, []);
   return (
-    <body>
-      <div className="container mt-5 mb-5">
+    <body className="py-5">
+      <div className="container mt-5 mb-5" id="about">
         <div className="row px-3 intro-con">
           <div className="col-lg-6">
             <p className="joyy">Hello! , my name is</p>
@@ -44,7 +44,7 @@ function Main() {
         </div>
       </div>
 
-      <div className="container mt-5 mb-5">
+      <div className="container mt-5 mb-5" id="skills">
         <div className="row text-center logo-con">
           <h2 className="omo mt-5 mb-5">My skills</h2>
           <div className="col-lg-2 py-3">
@@ -108,7 +108,7 @@ function Main() {
       </div>
 
 
-      <div className="container mb-5">
+      <div className="container mb-5" id="projects">
         <h2 className="omo mt-5 text-center mb-3">My Projects</h2>
         <h6 className="mb-5 text-center iam">Click and enjoy...</h6>
         <div className="row">
@@ -223,7 +223,7 @@ function Main() {
            <h6 className="mt-4 text-center iam">Working on lots more!</h6>
       </div>
        
-       <div className="container mt-5 mb-5">
+       <div className="container mt-5 mb-5" id="contact">
        <h2 className="text-center mb-5">Contact me!</h2>
         <div className="row">
             <div className="col-lg-6">
