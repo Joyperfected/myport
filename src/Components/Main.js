@@ -37,8 +37,8 @@ function Main() {
             data-aos-duration="3000"
           >
             <img
-              src="./Images/IMG_6540 3.jpg"
-              className="d-block w-50 m-auto img-fluid imgprofile"
+              src="./Images/IMG_5799.jpg"
+              className="d-block w-75 m-auto img-fluid imgprofile"
             />
           </div>
         </div>
